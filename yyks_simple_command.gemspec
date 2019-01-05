@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.executables   = s.files.grep(/^bin\//) { |f| File.basename(f) }
   s.test_files    = s.files.grep(/^(test|spec|features)\//)
   s.require_paths = ['lib']
-  
+
   s.add_development_dependency 'rake', '>= 10.0'
   s.add_development_dependency 'rspec', '>= 3.1'
 end
