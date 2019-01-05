@@ -1,3 +1,7 @@
 language: ruby
-install: gem install simplecov rspec;gem build yyks_simple_command.gemspec
+rvm:
+  - 2.0.0
+  - 2.5.3
+install: gem install rspec
 script:
+  gem build yyks_simple_command.gemspec
