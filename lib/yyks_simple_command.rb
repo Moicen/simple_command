@@ -1,5 +1,5 @@
-require 'simple_command/version'
-require 'simple_command/errors'
+require 'yyks_simple_command/version'
+require 'yyks_simple_command/errors'
 
 module SimpleCommand
   attr_reader :result

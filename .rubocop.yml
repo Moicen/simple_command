@@ -4,7 +4,7 @@
 
 # AllCops:
 #   Exclude:
-#     - 'simple_command.gemspec'
+#     - 'yyks_simple_command.gemspec'
 #     - 'spec/factories/**/*'
 
 # Style/Encoding:

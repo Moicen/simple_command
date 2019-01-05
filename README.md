@@ -1,5 +1,3 @@
-[![Code Climate](https://codeclimate.com/github/nebulab/simple_command/badges/gpa.svg)](https://codeclimate.com/github/nebulab/simple_command)
-[ ![Codeship Status for nebulab/simple_command](https://app.codeship.com/projects/45ce7790-8daf-0132-1412-669677a474c3/status?branch=master)](https://app.codeship.com/projects/60741)
 
 # SimpleCommand
 
@@ -14,7 +12,7 @@ A simple, standardized way to build and use _Service Objects_ (aka _Commands_) i
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'simple_command'
+gem 'yyks_simple_command'
 ```
 
 And then execute:
@@ -23,7 +21,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install simple_command
+    $ gem install yyks_simple_command
 
 ## Usage
 
@@ -113,7 +111,7 @@ end
 
 ## Contributing
 
-1. Fork it ( https://github.com/nebulab/simple_command/fork )
+1. Fork it ( https://github.com/youyikeshu/simple_command )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
