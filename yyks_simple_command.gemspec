@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email         = ['i@moicen.com']
   s.summary       = 'Easy way to build and manage commands (service objects)'
   s.description   = 'Easy way to build and manage commands (service objects)'
-  s.homepage      = 'https://github.com/youyikeshu/simple_command'
+  s.homepage      = 'https://github.com/Moicen/simple_command'
   s.license       = 'MIT'
 
   s.files         = `git ls-files -z`.split("\x0")
